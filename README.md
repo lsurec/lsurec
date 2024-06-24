@@ -28,19 +28,9 @@ I am excited to continue growing in the field of software development and am alw
 
 **Connect with me:**
 
-[LinkedIn](your-linkedin-url) | [Twitter](your-twitter-url) | [Email](mailto:your-email@example.com)
+[LinkedIn](https://www.linkedin.com/in/b3rert/) | [Email](mailto:b3rert@gmail.com)
 
-For more about my personal projects and contributions, please visit my personal GitHub profile: [Personal GitHub Profile](your-personal-github-url)
-
----
-
-**Pinned Repositories:**
-
-Here you can showcase some of your best or most recent projects:
-
-- [Project 1](link-to-repo): Brief description of what this project is about.
-- [Project 2](link-to-repo): Brief description of what this project is about.
-- [Project 3](link-to-repo): Brief description of what this project is about.
+For more about my personal projects and contributions, please visit my personal GitHub profile: [Personal GitHub Profile](https://github.com/B3rert)
 
 ---
 
